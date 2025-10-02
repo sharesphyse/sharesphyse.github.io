@@ -1,0 +1,22 @@
+<html>
+   <head>
+        <title>Imagen 1</title>
+    </head>
+   
+    <body>
+        <h1><center>Imagen 1</center></h1>
+       
+        <a href="index.html">Clic aqui para ir al inicio</a>      
+       
+           
+            <tr>
+                <td>
+                    <img src="ajedrez.jpg" alt="Petter griffin con una escopeta en la playa"/>
+                </td>
+               
+         
+            </tr>
+       
+    </body>
+
+</html>
